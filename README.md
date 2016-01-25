@@ -1,3 +1,5 @@
 # ExploreGit
 Temp repository for exploring GIT
-# Experimenting
+* Experimenting
+* Testing
+* Confirming
